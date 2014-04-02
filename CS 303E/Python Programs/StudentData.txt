@@ -1,0 +1,298 @@
+New York 	8,084,316
+Los Angeles 	3,798,981
+Chicago 	2,886,251
+Houston 	2,009,834
+Philadelphia	1,492,231
+San Diego	1,259,532
+Dallas	1,211,467
+San Antonio 	1,194,222
+Detroit 	925,051
+San Jose 	900,443
+Indianapolis 	793,645
+San Francisco 	764,049
+Jacksonville 	762,461
+Columbus 	725,228
+Austin 	671,873
+Memphis 	648,882
+Baltimore	638,614
+Milwaukee 	590,895
+Boston 	589,281
+Charlotte 	580,597
+El Paso 	577,415
+Washington 	570,898
+Nashville-Davidson 	570,785
+Seattle 	570,426
+Fort Worth 	567,516
+Denver 	560,415
+Portland 	539,438
+Oklahoma 	519,034
+Las Vegas 	508,604
+Tucson 	503,151
+New Orleans 	473,681
+Long Beach 	472,412
+Cleveland 	467,851
+Albuquerque 	463,874
+Fresno 	445,227
+Kansas 	443,471
+Sacramento 	435,245
+Virginia Beach 	433,934
+Mesa 	426,841
+Atlanta 	424,868
+Oakland 	402,777
+Omaha 	399,357
+Tulsa 	391,908
+Honolulu CDP 	378,155
+Minneapolis 	375,635
+Miami 	374,791
+Colorado Springs 	371,182
+Wichita 	355,126
+Arlington 	349,944
+Santa Ana 	343,413
+St. Louis 	338,353
+Anaheim 	332,642
+Pittsburgh 	327,898
+Cincinnati 	323,885
+Tampa 	315,140
+Toledo 	309,106
+Raleigh 	306,944
+Buffalo 	287,698
+Aurora 	286,028
+St. Paul	284,037
+Corpus Christi  	278,520
+Newark  	277,000
+Riverside  	274,226
+Anchorage  	268,983
+Lexington-Fayette  	263,618
+Stockton  	262,835
+Bakersfield  	260,969
+Louisville  	251,399
+St. Petersburg  	248,546
+Jersey  	240,100
+Birmingham  	239,416
+Norfolk  	239,036
+Plano  	238,091
+Lincoln  	232,362
+Glendale  	230,564
+Greensboro  	228,217
+Hialeah  	228,149
+Baton Rouge  	225,702
+Garland  	219,646
+Rochester  	217,158
+Scottsdale  	215,779
+Madison  	215,211
+Akron  	214,349
+Fort Wayne  	210,070
+Fremont  	206,856
+Chesapeake  	206,665
+Henderson  	206,153
+Lubbock  	203,715
+Modesto  	203,555
+Chandler  	202,016
+Montgomery  	201,425
+Glendale  	199,430
+Shreveport  	199,033
+Des Moines  	198,076
+Augusta-Richmond  	197,842
+Tacoma  	197,553
+Richmond  	197,456
+Yonkers  	197,234
+Grand Rapids  	196,595
+Spokane  	196,305
+Irving  	196,119
+Durham  	195,914
+Mobile  	194,862
+Chula Vista  	193,919
+Huntington Beach  	193,799
+Orlando  	193,722
+San Bernardino  	191,631
+Laredo  	191,538
+Reno  	190,248
+Arlington CDP  	189,927
+Boise  	189,847
+Winston-Salem  	188,934
+Columbus  	185,948
+Little Rock  	184,055
+Salt Lake  	181,266
+Jackson  	180,881
+Newport News  	180,272
+Oxnard  	177,984
+Amarillo  	177,010
+Providence  	175,901
+Worcester  	174,962
+Knoxville  	173,661
+Garden Grove  	167,429
+Oceanside  	165,880
+Ontario  	165,064
+Dayton  	162,669
+Huntsville  	162,536
+Irvine  	162,122
+Santa Clarita  	160,554
+Tempe  	159,508
+Overland Park  	158,430
+Fort Lauderdale  	158,194
+Aurora  	156,974
+Chattanooga  	155,404
+Tallahassee  	155,171
+Pomona  	153,555
+Santa Rosa  	153,489
+Springfield  	151,915
+Rockford  	151,068
+Springfield  	151,010
+Moreno Valley  	150,773
+Paterson  	150,750
+Brownsville  	150,425
+Vancouver  	149,811
+Salinas  	148,744
+Kansas  	146,978
+Pembroke Pines  	146,637
+Hampton  	145,921
+Syracuse  	145,164
+Pasadena  	145,034
+Lakewood  	143,754
+Rancho Cucamonga  	143,711
+Fontana  	143,607
+Hollywood  	143,213
+Hayward  	142,718
+Torrance  	141,615
+Salem  	140,977
+Eugene  	140,395
+Bridgeport  	140,104
+Pasadena  	139,712
+Corona  	138,326
+Warren  	137,672
+Escondido  	135,908
+North Las Vegas  	135,902
+Naperville  	135,389
+Grand Prairie  	135,303
+Gilbert town  	135,005
+Orange  	131,606
+Alexandria  	130,804
+Sioux Falls  	130,491
+Sunnyvale  	129,687
+Fullerton  	128,842
+Mesquite  	128,776
+Savannah  	127,691
+Sterling Heights  	126,146
+Coral Springs  	125,674
+Concord  	125,225
+Fort Collins  	124,665
+Lancaster  	124,592
+Hartford  	124,558
+Palmdale  	124,346
+Fayetteville  	124,286
+New Haven  	124,176
+Elizabeth  	123,279
+Peoria  	123,239
+Thousand Oaks  	122,700
+Cedar Rapids  	122,514
+Topeka  	122,103
+Flint  	121,763
+El Monte  	119,918
+Stamford  	119,850
+Vallejo  	119,798
+Evansville  	119,081
+Lansing  	118,588
+Joliet  	118,423
+Columbia  	117,394
+Simi Valley  	116,562
+Waco  	115,749
+Abilene  	115,225
+Ann Arbor  	115,213
+Carrollton  	115,107
+Inglewood  	114,959
+McAllen  	113,877
+Independence  	113,027
+Cape Coral  	112,899
+Bellevue  	112,894
+Beaumont  	112,871
+Peoria  	112,670
+Springfield  	111,834
+Lafayette  	111,272
+West Valley  	111,254
+Costa Mesa  	110,126
+Downey  	109,840
+Manchester  	108,398
+Clearwater  	108,313
+Waterbury  	107,883
+West Covina  	107,694
+South Bend  	106,558
+Allentown  	106,105
+Norwalk  	106,084
+Clarksville  	105,898
+Provo  	105,170
+Lowell  	104,901
+Athens-Clarke County  	103,881
+Berkeley  	103,640
+Ventura  	103,619
+Westminster  	103,599
+Pueblo  	103,411
+Wichita Falls  	102,926
+Burbank  	102,913
+Richmond  	102,553
+Arvada  	102,190
+Erie  	102,122
+Fairfield  	101,935
+Daly  	101,901
+Santa Clara  	101,867
+Cambridge  	101,807
+Green Bay  	101,515
+Olathe  	101,413
+Gary  	100,945
+Livonia  	100,341
+Antioch  	99,870
+Portsmouth  	99,790
+Centennial  	99,447
+Charleston  	98,795
+South Gate  	98,791
+Port St. Lucie  	98,538
+Cary town  	98,041
+Dearborn  	97,833
+Norman  	97,831
+Davenport  	97,777
+Everett  	97,088
+Richardson  	96,956
+Visalia  	96,889
+Rialto  	96,616
+Elgin  	96,539
+Mission Viejo  	96,307
+Macon  	95,862
+Midland  	95,829
+Compton  	95,559
+El Cajon  	95,555
+Brockton  	95,437
+Gainesville  	95,177
+Gresham  	94,706
+Boulder  	94,167
+New Bedford  	94,088
+Roanoke  	93,873
+Albany  	93,779
+Thornton  	93,623
+Vacaville  	93,573
+Carson  	92,929
+Killeen  	92,707
+Fall River  	92,660
+Kenosha  	92,513
+Billings  	92,008
+Roseville  	91,761
+Vista  	91,565
+Lawton  	91,333
+Waukegan  	91,323
+Fargo  	91,204
+Odessa  	90,961
+Wilmington  	90,644
+High Point  	90,639
+Rochester  	90,515
+Miramar  	90,359
+Denton  	90,349
+Lynn  	89,590
+Miami Beach  	89,575
+Westminster  	89,515
+Santa Barbara  	89,382
+Sandy  	89,244
+Quincy  	89,187
+Citrus Heights  	88,567
+Sunrise  	88,478
+Nashua  	87,705
+Alhambra  	87,655
+San Angelo  	87,423
+Pompano Beach  	87,153
